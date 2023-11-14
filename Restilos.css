@@ -1,0 +1,42 @@
+
+
+body{ 
+
+background-image: url(RFONDO.JPG);
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+ }
+
+.yeimi1{
+
+background-color:#ffffff ;
+}
+
+
+.texto1{ 
+
+background-color:00ff7f;
+ }
+
+
+ .texto{ 
+
+text-align: center center;
+ }
+
+.TABLA{
+background-color:00ff7f;
+text-align: center;
+
+
+}
+
+ .TABLA1{
+background-color:#ffdce7;
+text-align: center;
+
+
+}
+

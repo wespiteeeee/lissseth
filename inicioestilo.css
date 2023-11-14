@@ -1,0 +1,30 @@
+
+body{ 
+
+background-image: url(INICIO.PNG);
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+ }
+
+ .tabla3{
+font-family:arial;
+}
+
+
+
+.yeimi1{
+font-family:serif;
+font-size: 40px;
+text-align: center;
+background-color:#ffffff ;
+
+}
+
+
+.tabla{
+margin:0 auto;
+}
+
+
